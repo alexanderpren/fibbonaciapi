@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "fibo-api",
+  "version": "1.0.0",
+  "description": "fibonaaci",
+  "main": "index.js",
+  "author": "https://github.com/alexanderpren/fibbonaciapi.git",
+  "license": "MIT"
+}
